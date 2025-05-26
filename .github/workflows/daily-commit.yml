@@ -1,0 +1,28 @@
+name: Daily Commit for Streak
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update streak file
+        run: |
+          echo "Last updated: $(date)" > streak.txt
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add streak.txt
+          git commit -m "Daily streak commit: $(date)"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
