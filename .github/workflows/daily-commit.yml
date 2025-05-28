@@ -19,8 +19,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local shaswatp19@gmail.com "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "shaswatp19@gmail.com"
+          git config --local user.name "Shaswat19"
           git add streak.txt
           git commit -m "Daily streak commit: $(date)"
           git push
