@@ -15,9 +15,6 @@
   <a href="https://www.linkedin.com/in/shaswatpandey/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://medium.com/@shaswatp19" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium">
-  </a>
 </p>
 
 <p align="center">
@@ -95,6 +92,9 @@ I'm a data engineer with a knack for designing and optimizing data pipelines tha
   <a href="https://wa.me/+918115188941" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
+    <a href="https://medium.com/@shaswatp19" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium">
+  </a>
 </p>
 
 ---
