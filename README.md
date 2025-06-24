@@ -15,6 +15,9 @@
   <a href="https://www.linkedin.com/in/shaswatpandey/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://medium.com/@shaswatp19" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium">
+  </a>
 </p>
 
 <p align="center">
