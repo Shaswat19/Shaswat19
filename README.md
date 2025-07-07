@@ -21,6 +21,11 @@
   <i>Transforming raw data into actionable insights with scalable pipelines and a passion for problem-solving.</i>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="400">
+</p>
+
+
 ---
 
 ## 🚀 About Me
