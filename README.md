@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <i>Transforming raw data into actionable insights with scalable pipelines and a passion for problem-solving.</i>
+  <i>Data Engineer | Apache Spark & Big Data Expert | Python + SQL | Leveraging Generative AI for Intelligent Data Solutions</i>
 </p>
 
 <p align="center">
