@@ -33,7 +33,7 @@
 ```yaml
 name: Shaswat Pandey
 role: Data Engineer
-location: ASEA
+location: APAC
 mission: Architecting robust data pipelines to empower data-driven decisions
 hobbies:
   - Exploring new datasets
